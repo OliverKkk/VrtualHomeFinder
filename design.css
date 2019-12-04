@@ -1,0 +1,46 @@
+.outtable {
+	border: 1px solid #FF0000;
+}
+.mainmenu {
+	border: 1px solid #CC0000;
+	background-color: #FFFFFF;
+}
+.pagedata {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #000000;
+
+}
+.mainpagetabledata {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+	border: 1px solid #FFFFFF;
+	background-color: #FFFFFF;
+
+}
+.bottomrow {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FF0000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+
+}
