@@ -1,0 +1,289 @@
+/*generic styles*/
+
+
+ul{
+	list-style-type:none;
+	list-style-image:url(../images/mm_arrow.gif);
+	text-align:left;
+	
+	font-size:12px;
+	color:#28414D;
+	
+}
+
+ul li {
+	line-height:20px;
+	margin-bottom:10px;
+
+}
+
+	
+a {
+	padding:8px 6px 10px 10px;
+	font: 11px Helvetica, sans-serif,Verdana, Arial;
+	color: #6B5C3F;
+	text-decoration:none;
+	font-weight:bold;
+}
+	
+a:hover {
+	background: url(../images/mm_arrow.gif) 0px 45% no-repeat;
+	color: #FF3300;
+	text-decoration:underline;
+	}
+
+/*id styles*/
+
+#jinx {
+	text-decoration:none;
+}
+
+
+#jinx:hover{
+	text-decoration:none;
+	background:;
+}
+
+
+#clock{
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+	color: #333366;
+	letter-spacing:.3em;
+	line-height:20px;
+	font-weight:bold;
+}
+
+#mainBody{
+	background-color:#E6F0F2;
+	width:800px;
+	
+}
+
+#banner{
+	background-image:url(../images/banImg1.jpg);
+	width:800px;
+	height:123px;
+	margin-bottom:5px;
+	
+	
+}
+#displyTables{
+	line-height:20px;
+	overflow:scroll;
+	width:100%; 
+	height:133px;
+}
+
+#dispTd{
+	border-bottom:thin dotted #666666;
+	text-decoration:none;
+	color:#666F99;
+	font-size:15px;
+	letter-spacing:.2em;
+	background-color:#E8F0EE;
+	font-weight:bold;
+	
+}
+
+#dispimg{
+	max-height:200px;
+	max-width:180px;
+
+}
+
+#logo{
+	font:25px Verdana, Arial, Helvetica, sans-serif;
+	color: #E6F0F2;
+	letter-spacing:.2em;
+	line-height:30px;
+
+}
+
+#slogan{
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #0033CC;
+	letter-spacing:.4em;
+	line-height:18px;
+
+}
+#catch1{
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+	color: #333366;
+	letter-spacing:.5em;
+	line-height:20px;
+}
+
+#footer{
+	
+	width:90%;
+	height:39px;
+	margin-left:inherit;
+	margin-top:20px;
+	text-align:center;
+	
+}
+#footer h6{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#330000;
+	
+	
+}
+
+#footer a{
+	text-decoration:none;
+	color:#CC0000;
+	
+	
+}
+#footer a:hover{
+	text-decoration:underline;
+	color:#FF9999;
+	
+	
+}
+
+
+#navigation td {
+	border-bottom: 1px solid #738FC4;
+	text-align:left;
+	}
+	
+#navigation td:hover {
+	background-color:#E9FCFC;
+	}
+	
+#navigation a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color:#330066;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:2px 3px 5px 22px;
+	
+	}
+	
+#navigation a:hover {
+	background: url(../images/mm_arrow.gif) 14px 45% no-repeat;
+	color:#FA0E49;
+	text-decoration:underline;
+	}
+	
+#list{
+	font: 11px Helvetica, sans-serif,Verdana, Arial;
+	color: #6B5C3F;
+
+}
+#list a{
+	text-decoration:none;
+	font: 11px Helvetica, sans-serif,Verdana, Arial;
+	color: #A48668;
+	border-bottom:thin dotted #000066;
+}
+
+#list a:hover{
+	color: #FF3300;
+	border-bottom:thin dotted #FF3300;
+}
+
+#postDisplayTables{
+	width:708;
+	height:550;
+	overflow:scroll;
+
+}
+
+
+/* class Styles */
+
+
+.navText {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+	
+	
+.bodyText {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#330066;
+	line-height:20px;
+	margin-top:0px;
+	}
+	
+.pageName{
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:24px;
+	letter-spacing:.2em;
+	}
+	
+.subHeader {
+	font:bold 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:16px;
+	letter-spacing:.2em;
+	}
+
+.quote {
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	}
+	
+.link2{
+	text-decoration:none;
+	color:#6666CC;
+	font-size:15px;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	letter-spacing:.1em;
+	text-align:center;
+	
+	
+}
+.link2:hover{
+	
+	color:#FF3333;
+	text-decoration:none;
+	
+	letter-spacing:.1em;
+	text-align:center;
+	
+
+}
+
+.hedlines a{
+	font:10px Helvetica, sans-serif,Verdana, Arial;
+	background:url(../images/ico_archiveOv.gif) 0px 40% no-repeat;
+	
+	color:#000099;
+	text-decoration:none;
+	letter-spacing:1px;
+	font-weight:lighter;
+	line-height:15px;
+	
+
+}
+
+.hedlines a:hover{
+	background:url(../images/ico_archive.gif) 0px 40% no-repeat;
+	color:#000009;
+}
+
+.hedlines td{
+	max-width:50;
+	padding:6px;
+}
+
+.hedlines td:hover{
+	background:url() 0px 45% no-repeat;
+	background-color:#E9FCFC;
+}
